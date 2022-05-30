@@ -1,5 +1,5 @@
 ### Add few lines of code to child_branch
-Fruit=["apple", "orange,"mango","table"]
-       print(Fruit)
-       remove.Fruit["table"]
-       print(Fruit)
+fruit=["apple", "orange,"mango","table"]
+       print(fruit)
+       fruit.remove("table")
+       print(fruit)
